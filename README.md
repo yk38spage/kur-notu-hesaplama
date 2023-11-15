@@ -32,6 +32,8 @@ ERÜ Hazırlık öğrencilerinin kur notlarını hesaplamasına yardımcı olur.
 * Windows işletim sistemi kullananlar, `output` klasöründe `Kur Notu Hesaplama - licensed under GPL 3.0 or later.exe` isimli dosyayı direkt indirip kullanabilir.
 * Diğer işletim sistemlerini kullananlar için ana dizinde `hesapla.py` isimli dosya bulunmaktadır. Python ile bu dosya kullanılabilir.
 * Programı kullanabilmek için lisans sözleşmesini onaylamanız gerekmektedir. Kabul etmek için klavyenizden K, reddetmek için R tuşuna basıp "Enter" tuşuna basarak sözleşmeyi onaylayabilir veya reddedebilirsiniz.
+* Notunuzu girdikten sonra "Enter" tuşuna basabilirsiniz.
+* Tüm notlar girildiğinde ortalamanızla birlikte kuru geçip geçemediğiniz de ekranda yazacaktır. Yeni bir not girişi yapmak isterseniz "E" tuşuna basarak onaylayabilirsiniz. Çıkmak isterseniz "H" tuşuna basabilir veya programı kapatabilirsiniz.
 
 # Güncelleme notları
 * **16.11.2023** v1.00
